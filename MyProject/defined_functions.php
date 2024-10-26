@@ -126,7 +126,7 @@
                 echo "</table>";
             }
             ?>
-            <a href="home.php" class="home-button">Home</a>
+            <a href="index.php" class="home-button">Home</a>
         </div>
     </div>
 

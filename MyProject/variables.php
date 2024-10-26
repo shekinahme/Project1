@@ -97,7 +97,7 @@
                 <tr><td>\$gradeF</td><td>$gradeF</td><td>Failing grade</td></tr>
             </table>";
             ?>
-            <a href="home.php" class="home-button">Home</a>
+             <a href="index.php" class="home-button">Home</a>
         </div>
     </div>
 

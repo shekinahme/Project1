@@ -69,7 +69,7 @@
                     <p>Address: Nissi Academy Compound, Panas, Suba Basbas, Lapu Lapu City, Cebu</p>
                 </div>
             </div>
-            <a href="home.php" class="home-button">Home</a>
+            <a href="index.php" class="home-button">Home</a>
         </div>   
     </div>
 
